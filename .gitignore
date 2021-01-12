@@ -1,0 +1,11 @@
+# .o files
+*.o
+
+# .i files
+*.i
+
+# .s files
+*.s
+
+# a.out
+a.out
